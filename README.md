@@ -54,7 +54,7 @@ After consulting our client, we spent some time brainstorming and created an ove
 
 #### Queries:
 
-!<img width="488" alt="Screenshot 2023-11-07 175820" src="https://github.com/LeonardKeenan/MIST-4610-PROJECT/assets/148257298/88e54830-9704-4a8b-8061-e76ad1bd141f">
+<img width="488" alt="Screenshot 2023-11-07 175820" src="https://github.com/LeonardKeenan/MIST-4610-PROJECT/assets/148257298/88e54830-9704-4a8b-8061-e76ad1bd141f">
 
 1. 
 ![How many clay courts does Ace Tennis Club have](https://github.com/noahnbleon/project1/assets/124447378/78c175e5-ad10-4ee0-9d8f-7803cdf9e20d)
